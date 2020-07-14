@@ -15,7 +15,7 @@ TodayOnScience needs ChromeDriver (and Chrome) to work:
 https://chromedriver.chromium.org/downloads
 The .sqlite3 database file will be created on the directory "C:\Users\(User)\Documents\TodayOnScience".
 
-I included a .jar file for testing purposes on the folder "\out\artifacts\TodayOnScience_jar".
+I included a .jar file for testing purposes on my google drive "https://drive.google.com/file/d/15rGzWj0Vf3h3XUs3itThVhTLq3ts6Wfh/view?usp=sharing".
 
 --------------------------------------------------------------------------------------
 
