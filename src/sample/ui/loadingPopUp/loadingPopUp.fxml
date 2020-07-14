@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="400.0" maxWidth="600.0" minHeight="400.0" minWidth="600.0" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #802F2E;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ui.loadingPopUp.LoadingPopUp">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#420a08" height="500.0" layoutX="66.0" layoutY="-146.0" rotate="45.0" stroke="#3f0a08" strokeType="INSIDE" width="121.0" />
+      <HBox alignment="CENTER" layoutX="139.0" layoutY="279.0" prefHeight="100.0" prefWidth="305.0">
+         <children>
+            <Label alignment="CENTER" text="Loading " textFill="WHITE">
+               <font>
+                  <Font size="27.0" />
+               </font>
+            </Label>
+            <Label fx:id="siteLoadingLabel" alignment="CENTER" text="SpaceFlightNow" textFill="WHITE">
+               <font>
+                  <Font size="27.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+      <ImageView fx:id="atomLoading" fitHeight="110.0" fitWidth="98.0" layoutX="243.0" layoutY="189.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="file:icons/icons8_physics_128px.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="38.0" layoutY="65.0" text="Today On Science" textFill="WHITE">
+         <font>
+            <Font name="Bauhaus 93" size="65.0" />
+         </font>
+      </Label>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff5f5c" height="20.0" layoutX="-25.0" layoutY="385.0" stroke="#f35b58" strokeType="INSIDE" width="634.0" />
+      <Label layoutX="38.0" layoutY="137.0" text="Keeping you away from garage dragons !" textFill="WHITE">
+         <font>
+            <Font name="Bauhaus 93" size="22.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
