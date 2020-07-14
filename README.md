@@ -1,7 +1,8 @@
 # TodayOnScience
 
 
-Simple web scrapping application that collects article information (title, link and image) to store on a sqlite3 database.
+Web scrapping application that collects article information (title, link and image) to store on a sqlite3 database./
+On this project i used [AnimateFX](https://github.com/onexip/animate-fx) to make simple animations.
 
 
 ![alt text](https://github.com/VictorHenrique317/TodayOnScience/blob/master/readme_image.png?raw=true)
