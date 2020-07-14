@@ -9,12 +9,14 @@ Sites used for scrapping:
 [Space Flight Now](https://spaceflightnow.com)
 
 --------------------------------------------------------------------------------------
-#**How to use? **
+## How to use?
+
+
 
 TodayOnScience needs [ChromeDriver](https://chromedriver.chromium.org/downloads) (and Chrome) to work.
 The .sqlite3 database file will be created on the directory "C:\Users\(User)\Documents\TodayOnScience".
 
-I included a .jar file for testing purposes on my [google drive](https://drive.google.com/file/d/15rGzWj0Vf3h3XUs3itThVhTLq3ts6Wfh/view?usp=sharing).
+I included a .jar file for testing purposes on my [Google Drive](https://drive.google.com/file/d/15rGzWj0Vf3h3XUs3itThVhTLq3ts6Wfh/view?usp=sharing).
 
 --------------------------------------------------------------------------------------
 
