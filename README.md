@@ -1,11 +1,13 @@
 # TodayOnScience
 
+
 Simple web scrapping application that collects article information (title, link and image) to store on a sqlite3 database.
 
-Sites used for scrapping:
-[Sci-news](http://www.sci-news.com)
-[Science news](https://www.sciencenews.org)
-[Universe Today](https://www.universetoday.com)
+![alt text](https://github.com/VictorHenrique317/TodayOnScience/blob/master/readme_image.png?raw=true)
+Sites used for scrapping: \
+[Sci-news](http://www.sci-news.com)\
+[Science news](https://www.sciencenews.org)\
+[Universe Today](https://www.universetoday.com)\
 [Space Flight Now](https://spaceflightnow.com)
 
 --------------------------------------------------------------------------------------
