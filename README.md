@@ -27,8 +27,6 @@ I included a .jar file for testing purposes on my [Google Drive](https://drive.g
 ![alt text](https://github.com/VictorHenrique317/TodayOnScience/blob/master/readme_image2.png?raw=true)
 --------------------------------------------------------------------------------------
 
-Suggestions are appreciated :)
-
 
 
 
